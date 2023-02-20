@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiram26prog
 - 👀 I’m interested in machine learning & full stack..
-- 🌱 I’m currently learning Full Stack Course.
+- 🌱 I’m currently learning Full Stack with Java.
 - 📫 How to reach me ... @vjabhim2610@gmail.com
 
 <!---
